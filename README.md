@@ -1,1 +1,1 @@
-
+Minimalistic e-commerce website designed to deliver smooth online shopping experience. Built using modern full stack technologies and backend is supported by Node.js and express with MongoDB for scalable data management.Demonstrating a complete end-to-end e-commerce solution
